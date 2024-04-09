@@ -2,3 +2,7 @@ The UVM project encompasses the development of two comprehensive UVM environment
 The RTL of the SPI, previously completed, will serve as the Golden Model for this Testbench.
 The task involves identifying and rectifying errors and bugs present in the provided RTL.
 Comprehensive coverage metrics, including code coverage, assertion coverage, and functional coverage, have been achieved at 100%.
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+The project was supervised by Engineer Kareem Waseem during the UVM course.
+/////////////////////////////////////////////////////////////////////////////////////////////
